@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+
+.jumbotron-1 {
+  background-image: url('bakery2.jpeg');
+  height: 250px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  margin: 0;
+}
+
+.title-wrapper {
+  text-align: center;
+  background-color: white;
+  width: 454px;
+  height: 90px;
+  opacity: .75;
+}
+
+.search {
+  text-align: center;
+  margin-top: 60px;
+  font-size: 40px;
+}
+}
