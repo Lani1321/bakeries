@@ -1,25 +1,10 @@
-# README
+# BAKERIES
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Interested in the bakeries located near you?  All you have to do is enter the zipcode and with the click of a button, you'll be finding a place to eat pastries in no time.
 
-Things you may want to cover:
+# Installation:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# bakeries
+Clone this repo
+Run 'bundle install'
+Run 'rails server' or 'rails s'
+Head to http://localhost:3000 in your browser
