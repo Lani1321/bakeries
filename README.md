@@ -4,7 +4,7 @@ Interested in the bakeries located near you?  All you have to do is enter the zi
 
 # Installation:
 
-Clone this repo
-Run 'bundle install'
-Run 'rails server' or 'rails s'
-Head to http://localhost:3000 in your browser
+- Clone this repo
+- Run 'bundle install'
+- Run 'rails server' or 'rails s'
+- Head to http://localhost:3000 in your browser
